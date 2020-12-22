@@ -1,4 +1,4 @@
-# NX Workspace Example
+# Nest and Lerna Monorepo Example
 
 1. Install dependencies via `yarn` or `npm install` (delete the `yarn.lock` if you use npm)
 
