@@ -1,0 +1,6 @@
+node_modules
+dist
+tools/docker/data
+
+# Uncomment this line to exclude all environment variable sheets from your git repository
+# *.env*
